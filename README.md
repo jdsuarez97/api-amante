@@ -232,21 +232,9 @@ Estos archivos registran:
 - los prompts utilizados para orientar la generación del código
 - la trazabilidad de los componentes producidos y revisados
 
-## Consideraciones de entrega
-
-Esta entrega prioriza:
-
-- cumplimiento del enunciado
-- separación en capas
-- claridad arquitectónica
-- coherencia entre código y documentación
-- trazabilidad del proceso de generación con IA
-
-No se incluyen afirmaciones de ejecución local, pruebas manuales ni validaciones empíricas no realizadas como parte de esta entrega.
-
 ## Repositorio relacionado
 
 Este backend forma parte de una solución dividida en dos repositorios:
 
 - backend REST con Node.js + Express + MongoDB
-- frontend React con client side rendering
+- frontend React con client side rendering https://github.com/jdsuarez97/api-amante-ideal-frontend
